@@ -1,0 +1,6 @@
+gradio>=4.0.0
+anthropic
+mcp
+gradio_client
+python-dotenv
+requests 
